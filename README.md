@@ -41,7 +41,6 @@ A full-stack real-time chat application with support for **text and image messag
 - ✅ Push notifications support  
 - ✅ Group chat creation and management  
 - ✅ Chat message search and filtering  
-- ✅ Online/offline indicators  
 - ✅ End-to-end encryption
 
 ---
